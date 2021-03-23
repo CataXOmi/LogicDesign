@@ -1,2 +1,2 @@
 # LogicDesign
-Circuits made in Vronex
+Circuits made in wronex
